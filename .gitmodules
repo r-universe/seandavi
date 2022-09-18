@@ -13,11 +13,6 @@
 	url = https://github.com/seandavi/geoquery
 	shallow = true
 	registered = true
-[submodule "methylumi"]
-	path = methylumi
-	url = https://github.com/seandavi/methylumi
-	shallow = true
-	registered = true
 [submodule "SRAdb"]
 	path = SRAdb
 	url = https://github.com/seandavi/sradb

@@ -6,9 +6,6 @@
     "package": "GEOquery"
   },
   {
-    "package": "methylumi"
-  },
-  {
     "package": "SRAdb"
   }
 ]
